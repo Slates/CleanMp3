@@ -15,6 +15,8 @@ To install eyed3 (in Ubuntu):
 
     pip install eyed3
 
+##Usage
+
 Run with the following:
 
     python interface.py
