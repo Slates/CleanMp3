@@ -4,4 +4,4 @@ Must have wx and eyed3 modules for python.
 
 Run with the following:
 
-    python Interface.py
+    python interface.py
