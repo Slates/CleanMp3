@@ -9,5 +9,6 @@ for fname in glob.glob(indir):
 	if fname.endswith('.mp3'):
 		tag = eyeD3.Tag()
 		tag.link(fname)
-		songtitle = tag.getArtist() + " - " + tag.getTitle()
-		print songtitle
+		if tag.getArtist() != "":
+			songtitle = tag.getArtist() + " - " + tag.getTitle()
+			print songtitle
