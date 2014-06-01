@@ -1,4 +1,8 @@
-clean up id3 tags on mp3 files.
+Program to clean up id3 tags on mp3 files.
+
+Made in Python 2.7.3
+
+##Requirements
 
 Must have wx and eyed3 modules for python.
 
