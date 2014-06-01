@@ -1,3 +1,0 @@
-clean up id3 tags on mp3 files.
-
-Run python on terminal, with first argument being directory of files you want to clean up.
